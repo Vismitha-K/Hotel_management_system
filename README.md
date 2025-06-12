@@ -33,19 +33,6 @@ This project also demonstrates the integration of **JDBC (Java Database Connecti
 
 ---
 
-## 🗃️ Database Schema
-
-The following tables are created in the hotelmanagementsystem database:
-
-CREATE TABLE login(username VARCHAR(50), password VARCHAR(20));
-CREATE TABLE employees(name VARCHAR(25), age VARCHAR(10), gender VARCHAR(10), job VARCHAR(25), salary VARCHAR(20), phoneno VARCHAR(20), email VARCHAR(50), aadhar VARCHAR(30));
-CREATE TABLE rooms(roomno VARCHAR(15), availability VARCHAR(20), cleaning_status VARCHAR(20), price VARCHAR(25), bed_type VARCHAR(20));
-CREATE TABLE drivers(name VARCHAR(25), age VARCHAR(20), gender VARCHAR(20), car_company VARCHAR(25), car_model VARCHAR(20), availability VARCHAR(20), location VARCHAR(30));
-CREATE TABLE customers(document VARCHAR(25), id_no VARCHAR(20), name VARCHAR(20), gender VARCHAR(25), country VARCHAR(20), room_no VARCHAR(20), checkin_time VARCHAR(50), deposit VARCHAR(20));
-CREATE TABLE department(department VARCHAR(80), budget VARCHAR(10));
-
----
-
 ## 🚀 How to Run
 
 1. Clone or download the project.
