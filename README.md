@@ -17,7 +17,7 @@ This project also demonstrates the integration of **JDBC (Java Database Connecti
 - Java (Swing for GUI)
 - MySQL Workbench
 - JDBC
-- IntelliJ IDEA / Eclipse (Recommended IDEs)
+- IntelliJ IDEA / Apache Netbeans (Recommended IDEs)
 
 ---
 
